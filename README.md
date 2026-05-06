@@ -105,6 +105,9 @@ Criação de dashboard no Looker Studio para análise exploratória e comparativ
 
 ## 📊 Dashboard
 
+🔗 **Dashboard:**  
+https://datastudio.google.com/s/mpDKdXAvk0I
+
 O dashboard apresenta:
 
 * Total de Pokémon da 1ª geração
@@ -112,6 +115,8 @@ O dashboard apresenta:
 * Top 10 Pokémon mais fortes e mais fracos
 * Análise de desempenho por tipo
 * Insights analíticos sobre distribuição de poder
+
+![Dashboard](docs/dashboard.png)
 
 ---
 
@@ -266,6 +271,9 @@ Dashboard built in Looker Studio for exploratory and comparative analysis.
 
 ## 📊 Dashboard
 
+🔗 **Dashboard:**  
+https://datastudio.google.com/s/mpDKdXAvk0I
+
 The dashboard includes:
 
 * Total Pokémon from 1st generation
@@ -273,6 +281,8 @@ The dashboard includes:
 * Top 10 strongest and weakest Pokémon
 * Performance analysis by type
 * Analytical insights on power distribution
+
+![Dashboard](docs/dashboard.png)
 
 ---
 
